@@ -1,4 +1,4 @@
-# es-java-client-sample
+# es-5.x-java-client
  Prerequisite : Java 8 and Later version 
 
 ### Start ElasticSearch
@@ -15,5 +15,5 @@
 
 ### Run project 
     $ mvn package
-    $ mvn exec:java -Dexec.mainClass="com.es.app.ESApp"
+    $ mvn exec:java -Dexec.mainClass="com.es.app.ESMain"
 
